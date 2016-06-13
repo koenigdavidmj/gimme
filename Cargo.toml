@@ -1,0 +1,6 @@
+[package]
+name = "gimme"
+version = "0.1.0"
+authors = ["David Koenig <koenigdavidmj@gmail.com>"]
+
+[dependencies]
